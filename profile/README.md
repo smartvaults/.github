@@ -1,3 +1,4 @@
 ![Coinstr logo](https://github.com/coinstr/.github/blob/main/profile/coinstr.png?raw=true)
-
-🔏 Coinstr is a multisignature Bitcoin wallet that allows users to configure complex spending policies, like Bitcoin smart contracts. When a spending proposal is made, Coinstr uses the Nostr protocol to orchestrate signature requests and approvals.
+₿ Coinstr is a bitcoin-only multi-custody solution for spending policies and proposal execution.
+🖆 Coinstr uses Nostr relays and clients for saving policies, PSBTs, and orchestrating signatures.
+👨‍👩‍👧‍👦 Coinstr eliminates friction for groups managing Bitcoin together. 
