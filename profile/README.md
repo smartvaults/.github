@@ -1,5 +1,5 @@
-₿ Coinstr is a bitcoin multi-custody protocol for spending policies and proposal execution.
+₿ Smart Vaults is a bitcoin multi-custody protocol for spending policies and proposal execution.
 
-🖆 Coinstr uses Nostr relays and clients for discovering signers, saving policies & PSBTs, and orchestrating signatures with workflow.
+🖆 Smart Vaults uses Nostr relays and clients for discovering signers, saving policies & PSBTs, and orchestrating signatures with workflow.
 
-👨‍👩‍👧‍👦 Coinstr eliminates friction for groups managing Bitcoin together. 
+👨‍👩‍👧‍👦 Smart Vaults eliminates friction for groups managing Bitcoin together. 
